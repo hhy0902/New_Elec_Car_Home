@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/android_kotlin/New_Elec_Car_Home/app/src/main/res/drawable/elec_car_background.xml" value="0.33794871794871795" />
         <entry key="..\:/android_kotlin/New_Elec_Car_Home/app/src/main/res/drawable/ic_baseline_ev_station_24.xml" value="0.41944444444444445" />
         <entry key="..\:/android_kotlin/New_Elec_Car_Home/app/src/main/res/layout/activity_main.xml" value="0.5489583333333333" />
         <entry key="..\:/android_kotlin/New_Elec_Car_Home/app/src/main/res/layout/activity_map.xml" value="0.5489583333333333" />
